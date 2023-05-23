@@ -6,10 +6,10 @@
 | Diamond Risk | June 2020 | https://github.com/VulcanWM/diamond-risk | Python |
 | Rise Kronos Rise | June 2020 | https://github.com/VulcanWM/rise-kronos-rise | Python |
 | The Warring Kingdom | July 2020 | https://github.com/VulcanWM/the-warring-kingdom | Python |
-| Click Click | August 2020 | https://github.com/VulcanWM/click-click | HTML, CSS, JavaScript |
-| FRANK | September 2020 | https://github.com/VulcanWM/FRANK | Flask |
-| WeGreek | | https://github.com/VulcanWM/WeGreek | Flask |
-| Imposter | February 2021 | https://github.com/VulcanWM/Imposter | Flask |
+| Click Click | August 2020 | https://github.com/VulcanWM/click-click | HTML/CSS/JS |
+| FRANK | September 2020 | https://github.com/VulcanWM/FRANK | Python, Flask, MongoDB, HTML/CSS/JS |
+| WeGreek | | https://github.com/VulcanWM/WeGreek | Python, Flask, MongoDB, HTML/CSS/JS |
+| Imposter | February 2021 | https://github.com/VulcanWM/Imposter | Python, Flask, MongoDB, HTML/CSS/JS |
 | Quiz API | April 2021 | https://github.com/VulcanWM/Quiz-API | Flask |
 | Repl Today | April 2021 | *Deprecated* | Flask |
 | Drinks Cabin | May 2021 | https://github.com/VulcanWM/Drinks-Cabin | Flask |
