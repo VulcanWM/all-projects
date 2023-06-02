@@ -49,3 +49,5 @@
 | Global CSS Art | April 2023 | https://github.com/VulcanWM/global-css-art | Next.js |
 | GitHub Actions MongoDB | May 2023 | https://github.com/VulcanWM/github-actions-mongodb | Node.js |
 | VulcanWM GuestBook | May 2023 | https://github.com/VulcanWM/guest-book | Next.js |
+| Piano Transcription | June 2023 | https://github.com/VulcanWM/piano-transcription | Python |
+| TimeTable Game | June 2023 | https://github.com/VulcanWM/timetable-game | Svelte |
