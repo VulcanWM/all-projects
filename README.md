@@ -51,3 +51,4 @@
 | VulcanWM GuestBook | May 2023 | https://github.com/VulcanWM/guest-book | Next.js |
 | Piano Transcription | June 2023 | https://github.com/VulcanWM/piano-transcription | Python |
 | TimeTable Game | June 2023 | https://github.com/VulcanWM/timetable-game | Svelte |
+| Portfolio: v2.1.0 | June 2023 | https://github.com/VulcanWM/vulcanwm | Next.js |
