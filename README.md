@@ -53,3 +53,4 @@
 | TimeTable Game | June 2023 | https://github.com/VulcanWM/timetable-game | Svelte |
 | Portfolio: v2.1.0 | June 2023 | https://github.com/VulcanWM/vulcanwm | Next.js |
 | TodoList Next.js | June 2023 | https://github.com/VulcanWM/todolist-nextjs | Next.js |
+| CSS Animation | June 2023 | https://github.com/VulcanWM/css-animation/ | HTML,CSS,JS
