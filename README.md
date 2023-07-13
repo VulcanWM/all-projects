@@ -55,3 +55,4 @@
 | TodoList Next.js | June 2023 | https://github.com/VulcanWM/todolist-nextjs | Next.js |
 | CSS Animation | June 2023 | https://github.com/VulcanWM/css-animation | HTML,CSS,JS | 
 | Host Game ExpressJS | July 2023 | https://github.com/VulcanWM/host-game-expressjs | Express.js, Socket.io |
+| Express Socketio Chat | July 2023 | https://github.com/VulcanWM/express-socketio-chat | Express.js, Socket.io |
