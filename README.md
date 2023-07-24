@@ -25,7 +25,7 @@
 | Random SinCosTan | August 2022 | https://gist.github.com/VulcanWM/99f49e86f0cebe19c79d7272216f003a | Python |
 | Repl Chain | August 2022 | https://replit.com/@VulcanWM/repl-chain?v=1 | Flask |
 | Bankrupt the Bank | August 2022 | https://github.com/VulcanWM/bankrupt-the-bank | HTML, CSS, JavaScript |
-| What If | August 2022 | https://github.com/VulcanWM/what-if | Flask |
+| What If | August 2022 | https://github.com/VulcanWM/what-if-flask | Flask |
 | King Minister Thief Police | August 2022 | https://github.com/VulcanWM/king-minister-thief-police | Python |
 | Simple Notes | August 2022 | https://github.com/VulcanWM/simplenotes | Flask |
 | Break Time | September 2022 | https://github.com/VulcanWM/break-time | HTML, CSS, JavaScript |
