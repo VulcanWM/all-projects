@@ -57,3 +57,4 @@
 | Host Game ExpressJS | July 2023 | https://github.com/VulcanWM/host-game-expressjs | Express.js, Socket.io |
 | Express Socketio Chat | July 2023 | https://github.com/VulcanWM/express-socketio-chat | Express.js, Socket.io |
 | Daily Dev Joke | July 2023 | https://github.com/VulcanWM/daily-dev-joke | Node.js, GitHub Actions |
+| Melody Maker | July 2023 | https://github.com/VulcanWM/melody-maker | Next.js, React |
