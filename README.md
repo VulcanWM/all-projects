@@ -43,8 +43,8 @@
 | Portfolio - Next.js | February 2023 | https://github.com/VulcanWM/vulcanwm | Next.js |
 | TypeScript on Exercism | March 2023 | https://github.com/VulcanWM/typescript_exercism | TypeScript |
 | Fictional Web Shop | March 2023 | https://fictional-web-shop.vulcanwm.repl.co | Flask |
-| Login Signup Next.js | April 2023 | https://github.com/VulcanWM/login-signup-nextjs | Next.js |
-| Discipulis | January - April 2023 | https://github.com/VulcanWM/discipulis | Next.js |
+| Login Signup Next.js | April 2023 | https://github.com/VulcanWM/login-signup-nextjs | Next.js, MongoDB |
+| Discipulis | January - April 2023 | https://github.com/VulcanWM/discipulis | Next.js, React |
 | First React Native App | April 2023 | https://github.com/VulcanWM/random-app | React Native |
 | Global CSS Art | April 2023 | https://github.com/VulcanWM/global-css-art | Next.js |
 | GitHub Actions MongoDB | May 2023 | https://github.com/VulcanWM/github-actions-mongodb | Node.js |
@@ -59,4 +59,6 @@
 | Daily Dev Joke | July 2023 | https://github.com/VulcanWM/daily-dev-joke | Node.js, GitHub Actions |
 | Melody Maker | July 2023 | https://github.com/VulcanWM/melody-maker | Next.js, React |
 | Smile Counter | July 2023 | https://github.com/VulcanWM/smile-counter | React |
+| Escape Breakout | July - August 2023 | https://github.com/VulcanWM/escape-breakout | Next.js, Three.js, MongoDB |
+| FocusSync | September 2023 - Present | https://github.com/VulcanWM/focus-sync | Next.js, React, NextAuth |
 | What If | July 2023 | https://github.com/VulcanWM/what-if | Next.js, React, MongoDB |
