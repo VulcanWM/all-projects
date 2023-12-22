@@ -62,3 +62,4 @@
 | What If | July 2023 | https://github.com/VulcanWM/what-if | Next.js, React, MongoDB |
 | Escape Breakout | July - August 2023 | https://github.com/VulcanWM/escape-breakout | Next.js, Three.js, MongoDB |
 | FocusSync | September 2023 - November 2023 | https://github.com/VulcanWM/focus-sync | Next.js, React, NextAuth, MongoDB |
+| ToneTrail | November 2023 - December 2023 | https://tonetrail.vercel.app | Next.js, React, VexFlow, MongoDB, NextAuth |
