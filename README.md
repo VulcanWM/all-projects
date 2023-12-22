@@ -61,4 +61,4 @@
 | Smile Counter | July 2023 | https://github.com/VulcanWM/smile-counter | React |
 | What If | July 2023 | https://github.com/VulcanWM/what-if | Next.js, React, MongoDB |
 | Escape Breakout | July - August 2023 | https://github.com/VulcanWM/escape-breakout | Next.js, Three.js, MongoDB |
-| FocusSync | September 2023 - Present | https://github.com/VulcanWM/focus-sync | Next.js, React, NextAuth |
+| FocusSync | September 2023 - November 2023 | https://github.com/VulcanWM/focus-sync | Next.js, React, NextAuth, MongoDB |
