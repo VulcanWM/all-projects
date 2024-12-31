@@ -63,4 +63,9 @@
 | Escape Breakout | July - August 2023 | https://github.com/VulcanWM/escape-breakout | Next.js, Three.js, MongoDB |
 | FocusSync | September 2023 - November 2023 | https://github.com/VulcanWM/focus-sync | Next.js, React, NextAuth, MongoDB |
 | ToneTrail | November 2023 - December 2023 | https://tonetrail.vercel.app | Next.js, React, VexFlow, MongoDB, NextAuth |
+| noterift | January 2024 - June 2024 | https://noterift.vercel.app | Next.js, React, MongoDB, NextAuth, shadcn | 
 | chordscape | March 2024 - April 2024 | https://chordscape.vercel.app | Next.js, React, Tonal.js, NextAuth, shadcn, MongoDB |
+| easerecall | April 2024 - May 2024 | https://easerecall.netlify.app | Next.js, React, MongoDB, NextAuth, shadcn |
+| recallit | July 2024 | https://recallit.vercel.app | Next.js, React, MongoDB, NextAuth, shadcn, GroqAI, PDFParse |
+| feedscope | July 2024 - August 2024 | https://www.feedscope.xyz | Next.js, React, MongoDB, GroqAI, shadcn, Stripe, NextAuth |
+| GameGift | September 2024 - current | https://www.gamegift.space | Next.js, React, MongoDB, kaboom.js, shadcn, Stripe, NextAuth |
