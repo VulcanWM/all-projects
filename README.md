@@ -68,4 +68,14 @@
 | easerecall | April 2024 - May 2024 | https://easerecall.netlify.app | Next.js, React, MongoDB, NextAuth, shadcn |
 | recallit | July 2024 | https://recallit.vercel.app | Next.js, React, MongoDB, NextAuth, shadcn, GroqAI, PDFParse |
 | feedscope | July 2024 - August 2024 | https://www.feedscope.xyz | Next.js, React, MongoDB, GroqAI, shadcn, Stripe, NextAuth |
-| GameGift | September 2024 - current | https://www.gamegift.space | Next.js, React, MongoDB, kaboom.js, shadcn, Stripe, NextAuth |
+| GameGift | September 2024 - November 2024 | https://game-gift.netlify.app | Next.js, React, MongoDB, kaboom.js, shadcn, Stripe, NextAuth |
+| Feedscope v2 (daily quiz) | January 2025 | https://feedscope.netlify.app/ | Next.js, React, MongoDB, shadcn, NextAuth |
+| LogicLore | June 2025 - July 2025 | https://logiclore.netlify.app/ | Next.js, React, MongoDB, shadcn, Stripe, NextAuth |
+| VibeFight | July 2025 | https://www.vibefight.com/ | Next.js, React, MongoDB, Github Actions, shadcn, NextAuth |
+| TaskStake | August 2025 | https://taskstake.netlify.app/ | Next.js, React, MongoDB, shadcn, Stripe, NextAuth |
+| EarnGrid | August 2025 | https://vulcanwm.github.io/earn-grid/ | HTML, ThreeJS |
+| ChallengeCanvas | August 2025 | https://github.com/VulcanWM/challenge-canvas | HTML, CSS, JavaScript |
+| Loot Of Olympus | September 2025 | https://www.reddit.com/r/lootofolympus_dev/ | React, Devvit, Redis |
+| Word Shooter | September 2025 | https://github.com/VulcanWM/word-shooter | React, Vite |
+| Possible Futures | September 2025 | https://vulcanwm.itch.io/possible-futures | React, Vite |
+| MathForge | October 2025 - current | https://github.com/VulcanWM/math-forge | Python |
